@@ -11,7 +11,7 @@ export const PermissionScreen = () => {
     return (
         <View style={ styles.container }>
             <Text style={ styles.title }>
-                Es necsario el uso del GPS para usar esta App
+                Es necesario el uso del GPS para usar esta App
             </Text>
 
             <BlackButton
